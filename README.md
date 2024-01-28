@@ -1,4 +1,4 @@
-# Assignment03
+# Assignment 03
 
 ## The “Coin Flip” Game Redux
 
